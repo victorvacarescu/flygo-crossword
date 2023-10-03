@@ -1,2 +1,1 @@
 # flygo-crossword
-Hello World!
